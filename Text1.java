@@ -39,13 +39,10 @@ public class Text1 {
         System.out.println(9 % 2);
 
          */
-        int a = 10;
-        a += 3;
-        a -= 4;
-        a *= 5;
-        a /= 6;
-        a %= 2;
-        System.out.println(a);
+
+        System.out.println("First GitHub");
+
+        
 
     }
 }
