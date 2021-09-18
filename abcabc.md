@@ -11,4 +11,7 @@
 
 ```Java
     System.out.print("abc");
+    int a = 10;
+    double b = 20.5;
+    String a = "我是张政的父亲";
 ```
